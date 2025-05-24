@@ -1,12 +1,21 @@
-## Hi there 👋
+# Dhampir's Clan 🦇
 
-<!--
+Welcome to **Dhampir's Clan** — a gothic circle for friends, allies, and subscribers of the [dhampirdotsh](https://youtube.com/@dhampirdotsh) YouTube channel.
 
-**Here are some ideas to get you started:**
+## 🩸 Clans of the Night
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **daywalkers**  
+  *The first members. The ones who walk between worlds.*
+
+- **Círculo da Lua Negra**  
+  *Friends and channel subscribers. Bound by the moon's shadow.*
+
+- **Conselho das Sombras**  
+  *The council. Keepers of the clan's secrets and fate.*
+
+    - [Luiz123w](https://github.com/Luiz123w)
+    - [paule macedo](https://github.com/paule)
+
+---
+
+> *"In darkness, we unite. In shadow, we thrive."*
